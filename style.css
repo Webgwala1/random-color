@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+  background-color: rgb(148, 226, 154);
+    
+
+
+}
+
+.bulb {
+   
+    border: 3px solid rgb(14, 192, 23);
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+
+
+
+}
